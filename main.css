@@ -1,0 +1,10 @@
+.conteiner {
+    font-size: 80px;
+    display: flex;
+    color: rgba(73, 176, 255, 0.967);
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    margin-top: 300px;
+    background-color: black;
+}
